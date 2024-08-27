@@ -1,6 +1,6 @@
 # Data Science Internship Task 4
 <br>
-<img src="https://github.com/kindo-tk/PRODIGY_DS_04/blob/main/ds4.png">
+<img src="https://github.com/RohanAmbhore786/Data/blob/main/ds4.png">
 
 ## Overview
 
